@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1746463799 source:c:\users\bogda\desktop\c\game manager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
